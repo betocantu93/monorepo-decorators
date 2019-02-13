@@ -1,0 +1,14 @@
+{
+	"name": "monorepo-decorators",
+	"version": "0.0.1",
+	"description": "Monorepo for all evedresses javascript based frontend",
+	"repository": "https://github.com/betocantu93/monorepo-decorators.git",
+	"author": "Beto Cantu <betocantu93@gmail.com>",
+	"workspaces": [
+		"@apps/*",
+		"@addons/*"
+	],
+	
+	"license": "MIT",
+	"private": true
+}
